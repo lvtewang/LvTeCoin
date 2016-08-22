@@ -1,0 +1,9 @@
+Building LvTeCoin
+
+See doc/readme-qt.rst for instructions on building LvTeCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LvTeCoin.
+
+See doc/build-*.txt for instructions on building LvTeCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of LvTeCoin.
